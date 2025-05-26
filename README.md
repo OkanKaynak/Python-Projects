@@ -1,5 +1,5 @@
 # Python-Projects
-Hi, my name is Okan Kaynak and within this repository there are all my projects that i have been working on during my journey of learning the Python programming language. 
+Hi, my name is Okan Kaynak and within this repository are all my projects that i have been working on within my journey of learning Python. 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
