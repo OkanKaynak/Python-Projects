@@ -10,3 +10,6 @@ Hi, my name is Okan Kaynak, and this repository contains all my projects that i 
 
 
 3. 'Dice Rolling Simulator' is a game where the programs rolls a dice and outputs the number that it lands on. The user is given the option to roll a dice and based on their input the program can either roll the dice or exit the program. There also is an option for users to play again after the result is output to the user. There is a good use of error handling within the program which minimises the errors and crashes within my program to improve efficiency and effectiveness. 
+
+
+4. Furthermore, another project I have completed is the 'Unit Converter' program. This program allows the user to convert values from kilometres to miles (vice versa) and converting from celsius to fahrenheit (vice versa). The program contains a good use of error handlings with the use of try and excepts and while loops to ensure the user can only input valid inptus for the program to run effectively. The user also has the option to exit the program or make another conversion.
