@@ -13,3 +13,6 @@ Hi, my name is Okan Kaynak, and this repository contains all my projects that i 
 
 
 4. Furthermore, another project I have completed is the 'Unit Converter' program. This program allows the user to convert values from kilometres to miles (vice versa) and converting from celsius to fahrenheit (vice versa). The program contains a good use of error handlings with the use of try and excepts and while loops to ensure the user can only input valid inptus for the program to run effectively. The user also has the option to exit the program or make another conversion.
+
+
+5. 'Quote Generator' is a program that asks the user if they would like to retrieve a quote and randomly outputs a quote that is stored in a list. There is a good use of error handling for each user input and the option for the user to restart and exit the program. It is a simple program but included a use of lists, while loops and methods to test my knowledge on the basic Python language.
