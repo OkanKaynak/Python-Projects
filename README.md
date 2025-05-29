@@ -16,3 +16,6 @@ Hi, my name is Okan Kaynak, and this repository contains all my projects that i 
 
 
 5. 'Quote Generator' is a program that asks the user if they would like to retrieve a quote and randomly outputs a quote that is stored in a list. There is a good use of error handling for each user input and the option for the user to restart and exit the program. It is a simple program but included a use of lists, while loops and methods to test my knowledge on the basic Python language.
+
+
+6. 'Password Generator' allows the user to generate strong passwords that contain the features mentioned such as, uppercase letters, lowercase letters, numbers, and symbols. The user is greeted with a welcome message which then leads to asking the user if they would like to generate a password, if the user inputs yes, then a password is generated, if no, then the user exits the program. After generating a password, the program calls the restart function which asks the user if they would like to generate another password or exit the program. There is a good use of error handling for all possible user inputs to ensure the program works with minimal to no errrors.
